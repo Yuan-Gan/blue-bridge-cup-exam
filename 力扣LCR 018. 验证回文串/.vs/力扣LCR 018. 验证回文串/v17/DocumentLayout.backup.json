@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u84DD\u6865\u676F\u7B97\u6CD5\u7ADE\u8D5B\\\u84DD\u6865\u676F\u771F\u9898\\blue-bridge-cup-exam\\\u529B\u6263LCR 018. \u9A8C\u8BC1\u56DE\u6587\u4E32\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A015C370-6468-4F82-839C-F2E20881A88D}|\u529B\u6263LCR 018. \u9A8C\u8BC1\u56DE\u6587\u4E32\\\u529B\u6263LCR 018. \u9A8C\u8BC1\u56DE\u6587\u4E32.vcxproj|D:\\\u84DD\u6865\u676F\u7B97\u6CD5\u7ADE\u8D5B\\\u84DD\u6865\u676F\u771F\u9898\\blue-bridge-cup-exam\\\u529B\u6263LCR 018. \u9A8C\u8BC1\u56DE\u6587\u4E32\\\u529B\u6263LCR 018. \u9A8C\u8BC1\u56DE\u6587\u4E32\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A015C370-6468-4F82-839C-F2E20881A88D}|\u529B\u6263LCR 018. \u9A8C\u8BC1\u56DE\u6587\u4E32\\\u529B\u6263LCR 018. \u9A8C\u8BC1\u56DE\u6587\u4E32.vcxproj|solutionrelative:\u529B\u6263LCR 018. \u9A8C\u8BC1\u56DE\u6587\u4E32\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 260,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.cpp",
+              "DocumentMoniker": "D:\\\u84DD\u6865\u676F\u7B97\u6CD5\u7ADE\u8D5B\\\u84DD\u6865\u676F\u771F\u9898\\blue-bridge-cup-exam\\\u529B\u6263LCR 018. \u9A8C\u8BC1\u56DE\u6587\u4E32\\\u529B\u6263LCR 018. \u9A8C\u8BC1\u56DE\u6587\u4E32\\test.cpp",
+              "RelativeDocumentMoniker": "\u529B\u6263LCR 018. \u9A8C\u8BC1\u56DE\u6587\u4E32\\test.cpp",
+              "ToolTip": "D:\\\u84DD\u6865\u676F\u7B97\u6CD5\u7ADE\u8D5B\\\u84DD\u6865\u676F\u771F\u9898\\blue-bridge-cup-exam\\\u529B\u6263LCR 018. \u9A8C\u8BC1\u56DE\u6587\u4E32\\\u529B\u6263LCR 018. \u9A8C\u8BC1\u56DE\u6587\u4E32\\test.cpp*",
+              "RelativeToolTip": "\u529B\u6263LCR 018. \u9A8C\u8BC1\u56DE\u6587\u4E32\\test.cpp*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-11T09:30:24.406Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

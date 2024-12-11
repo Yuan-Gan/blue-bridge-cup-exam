@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "力扣LCR 018. 验证回文串", "力扣LCR 018. 验证回文串\力扣LCR 018. 验证回文串.vcxproj", "{A015C370-6468-4F82-839C-F2E20881A88D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A015C370-6468-4F82-839C-F2E20881A88D}.Debug|x64.ActiveCfg = Debug|x64
+		{A015C370-6468-4F82-839C-F2E20881A88D}.Debug|x64.Build.0 = Debug|x64
+		{A015C370-6468-4F82-839C-F2E20881A88D}.Debug|x86.ActiveCfg = Debug|Win32
+		{A015C370-6468-4F82-839C-F2E20881A88D}.Debug|x86.Build.0 = Debug|Win32
+		{A015C370-6468-4F82-839C-F2E20881A88D}.Release|x64.ActiveCfg = Release|x64
+		{A015C370-6468-4F82-839C-F2E20881A88D}.Release|x64.Build.0 = Release|x64
+		{A015C370-6468-4F82-839C-F2E20881A88D}.Release|x86.ActiveCfg = Release|Win32
+		{A015C370-6468-4F82-839C-F2E20881A88D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {533A9C41-07FD-4010-B549-08E991DDED73}
+	EndGlobalSection
+EndGlobal
